@@ -1,4 +1,4 @@
-# Online-Food-App-Delivery-Management-Analysis-powerbi-project
+# Online-Food-Delivery-App-Management-Analysis-powerbi-project
 
 
 This project showcases a complete **Food Delivery Management Dashboard** built in **Power BI**, designed using a clean and vibrant **Swiggy Orange theme** 🎨.  
